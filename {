@@ -1,0 +1,15 @@
+{
+  "name": "karma-mocha",
+  "karma-mocha": "karma-mocha",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "scripts": {
+    "karma-mocha": "./scripts/bootstrap"
+  },
+  "dependencies": {
+    "babel-eslint": "^4.1.3",
+    "karma-mocha": "^0.2.0"
+  },
+  "private": true
+}
