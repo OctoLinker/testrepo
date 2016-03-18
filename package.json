@@ -7,7 +7,19 @@
   "scripts": {
     "karma-mocha": "./scripts/bootstrap"
   },
+  "foo": {
+    "babel-eslint": "^4.1.3",
+    "karma-mocha": "^0.2.0"
+  },
   "dependencies": {
+    "babel-eslint": "^4.1.3",
+    "karma-mocha": "^0.2.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^4.1.3",
+    "karma-mocha": "^0.2.0"
+  },
+  "bar": {
     "babel-eslint": "^4.1.3",
     "karma-mocha": "^0.2.0"
   },
