@@ -1,6 +1,12 @@
 {
   "name": "karma-mocha",
+  "entry": "lib/index.js",
+  "main": "lib/index.js",
   "karma-mocha": "karma-mocha",
+  "deep" : {
+    "main": "lib/index.js",
+    "entry": "./lib/index.js"
+  },
   "engines": {
     "node": ">=4.0.0"
   },
