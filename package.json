@@ -11,6 +11,7 @@
     "node": ">=4.0.0"
   },
   "scripts": {
+    "entry": "./lib/index.js",
     "karma-mocha": "./scripts/bootstrap"
   },
   "foo": {
