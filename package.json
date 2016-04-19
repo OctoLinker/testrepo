@@ -5,7 +5,10 @@
   "karma-mocha": "karma-mocha",
   "deep" : {
     "main": "lib/index.js",
-    "entry": "./lib/index.js"
+    "entry": "./lib/index.js",
+    "sub" : {
+      "level": "hello"
+    }
   },
   "engines": {
     "node": ">=4.0.0"
